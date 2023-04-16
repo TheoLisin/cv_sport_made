@@ -1,0 +1,15 @@
+kaggle
+jupyterlab
+lightning
+black
+mypy
+tqdm
+numpy
+matplotlib
+torchsummary
+wemake-python-styleguide
+pandas
+opencv-python
+seaborn
+tensorboardX
+scikit-learn
